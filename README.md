@@ -22,4 +22,4 @@ B.Tech AIML Student at REVA University
 
 ## Connect With Me
 - LinkedIn : https://www.linkedin.com/in/aishwarya-hs-b05762386/
-- GitHub:
+- GitHub: https://github.com/aishwarya260306hs
