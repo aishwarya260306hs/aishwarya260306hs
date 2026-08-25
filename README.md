@@ -21,5 +21,5 @@ B.Tech AIML Student at REVA University
 - HackerRank
 
 ## Connect With Me
-- LinkedIn
-- GitHub
+- LinkedIn : https://www.linkedin.com/in/aishwarya-hs-b05762386/
+- GitHub:
